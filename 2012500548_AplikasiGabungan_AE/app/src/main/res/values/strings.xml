@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Aplikasi Gabungan</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="Penjelasan_Oreo">
+        Android Oreo (kode nama Android O selama pengembangan) adalah versi kedelapan dari sistem operasi Android mobile. Ini pertama kali dirilis sebagai preview pengembang ala kualitas pada tanggal 21 Maret 2017. Pratinjau pengembang kedua dirilis pada 17 Mei 2017, dan ini dianggap sebagai kualitas beta dan preview pengembang ketiga dirilis pada tanggal 8 Juni 2017 dan menyelesaikan API. Pada 24 Juli 2017, pratinjau pengembang keempat dirilis yang mencakup perilaku sistem akhir dan perbaikan bug dan pengoptimalan terbaru.[4] Ini dirilis ke publik pada tanggal 21 Agustus 2017. Google meluncurkan sebuah patung pembaruan bertema pencuci mulut di 14th Street Park di Manhattan, dekat dengan pabrik Nabisco asli yang menciptakan Oreo pertama.
+    </string>
+    <string name="Fitur">
+        1. Picture-in-Picture: Ketika pengguna sedang me navigasi arah di peta, sedang membuka video di youtube atau ketika sedang melakukan video call tinggal cukup menekan home maka window pada aplikasi tersebut akan mengecil
+        2. Snooze Notifikasi: Menunda Aplikasi yang masuk berdasarkan timer yang ditentukan dan akan tampil kembali ketika timer tersebut habis
+        3. Autofill Password: Memudahkan pengguna masuk ke berbagai akun di internet, akun media sosial kamu, atau berbagai aplikasi tanpa perlu mengetik username dan password.
+        4. Notication Dots: ketika ada notifikasi yang belum dibaca, maka akan muncul titik kecil di atas ikon aplikasi, dengan tap dan tahan maka dapat Melihat notifikasi dari aplikasi tanpa perlu membuka aplikasi nya.
+        5. Android Instant Apps: Dapat menjalankan aplikasi baru langsung dari browser, tanpa perlu men-downloadnya.
+        6. Google Play Protect: Meningkatkan keamanan aplikasi yang terintergrasi dengan google play yang mampu mendeteksi dan menghapus aplikasi berbahaya secara otomatis.
+        7. Smart Text Selection: melakukan copy paste dengan mengaplikasikan on device machine learning. Misalkan, ketika sedang mengeblok atau melakukan copy paste tulisan sebuah alamat, Smart Text Selection akan menampilkan saran aplikasi untuk membuka maps. fitur ini dapat juga digunakan untuk nomor telepon, alamat URL, dan lain sebagainya
+        8. Channel: Mengelompokkan notifikasi dari tiap-tiap aplikasi ke dalam kategori tertentu, Hal ini dapat memudahkan pengguna ketika akan mengatur dan memblokir notifikasi dari kategori aplikasi yang dianggap mengganggu
+        9. Ikon aplikasi bisa disesuaikan: menyesuaikan bentuk ikon apikasi tanpa harus memasang launcher terlebih dulu. Saat ini ada empat pilihan: Square, Rounded square, Squircle, dan Teardrop.
+        10. Wifi aktif secara otomatis: Jika opsi diaktifan di Pengaturan, maka Android Oreo akan mengaktifkan Wi-Fi kembali secara otomatis saat pengguna berada di dekat jaringan Wi-Fi aman.
+        11. Penambahan Emoji: Penambahan beberapa emoji baru pada android oreo dan tampilan emoji yang lebih segar
+        12. Pembatasan Background Apps: Membatasi background aplikasi yang mengkonsumsi banyak baterai agar tidak berjalan secara background.
+        13. Rescue Party: Mencegah terjadi nya bootloop pada saat terdeteksi ada nya ancaman-ancaman yang mengakibatkan terjadinya kerusakan sistem pada operasi sistem
+        14. Free Up Space: Bagian Storage pada menu pengaturan diubah memberikan tampilan kategori dari aplikasi yang memakan banyak ruang pada perangkat. serta menambahkan fitur free up space untuk mengosongkan file sampah secara otomatis
+        15. Notification Priority: Android Oreo dapat mengatur tingkat prioritas pada aplikasi berdasarkan kebutuhan pengguna
+        16. Background Limit: Android Oreo akan meminimalkan aktivitas di latar belakang pada aplikasi yang jarang digunakan pengguna
+        17. Dukungan Codec Audio Bluetooth High-quality: Android Oreo sudah mendukung APTX sekelas dengan codec LDAC milik Sony, protokol streaming yang eksklusif dimiliki CSR dan kini dimiliki oleh Qualcomm. Dukungan ini memungkinkan pengguna mendengarkan musik lewat perangkat Bluetooth dengan kualitas tinggi (high-bitrate)
+        18. Dukungan Profil Wide Color Gamut: Menawarkan cara native untuk pengembang dalam menentukan cara untuk menampilkan aplikasi mereka di mode Wide Color Gamut. Profil tersebut meliputi AdobeRGB, Pro Photo RGB, dan DCI-P3, yang merupakan standar umum dalam aplikasi pencitraan, editing, dan video profesional.
+    </string>
+</resources>
